@@ -11,7 +11,6 @@ using System.Windows.Forms;
 namespace WindowsFormsApplication1
 {
     //AUTHOR:       Hannah Christman, Lianna Pais, Ryan Murphy, Max Zhang
-    //COURSE:       ISYS 250 502 
     //FORM:         frmCustomer
     //PURPOSE:      Lets user fill out customer's billing and delivery information  
     //INPUT:        User's name, address, phone number, and subdivision location
@@ -20,9 +19,6 @@ namespace WindowsFormsApplication1
     //              address will be the same as the billing address if the customer checks the chkdelivery option. Then the form will move the 
     //              user to frmOrder to finish the order
     //OUTPUT:       Outputs valid customer information to frmOrder
-    //HONOR CODE:   “On my honor, as an Aggie, I have neither given
-    //               nor received unauthorized aid on this academic
-    //               work.”
 
     public partial class frmCustomer : Form
     {
