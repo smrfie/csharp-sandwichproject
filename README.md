@@ -1,1 +1,1 @@
-# csharp-sandwichproject
+One of the first projects I worked on during school, my team was asked to create an interactive C# form that would allow a sandwich shop to complete orders, while maintaining information on inventory, customers, and vendors.
